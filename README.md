@@ -70,7 +70,7 @@ Todo o projeto está em um único arquivo, sem subpastas e sem dependências ext
 
 ## Tecnologias
 
-- HTML5
+- HTML5.
 - CSS3 (variáveis, grid, flexbox, animações, `backdrop-filter`)
 - JavaScript puro (`IntersectionObserver`, `canvas`, `setInterval`)
 - Fonte Inter (Google Fonts)
